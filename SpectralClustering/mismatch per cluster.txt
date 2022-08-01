@@ -1,0 +1,41 @@
+When using K=2:
+The mismatch rate for the cluster number 1 is: 0.4797619047619048
+The mismatch rate for the cluster number 2 is: 0.4817708333333333
+When using K=5:
+The mismatch rate for the cluster number 1 is: 0.17575757575757575
+The mismatch rate for the cluster number 2 is: 0.005376344086021506
+The mismatch rate for the cluster number 3 is: 0.05027932960893855
+The mismatch rate for the cluster number 4 is: 0.01824817518248175
+The mismatch rate for the cluster number 5 is: 0.0
+When using K=10:
+The mismatch rate for the cluster number 1 is: 0.0
+The mismatch rate for the cluster number 2 is: 0.005555555555555556
+The mismatch rate for the cluster number 3 is: 0.45
+The mismatch rate for the cluster number 4 is: 0.01568627450980392
+The mismatch rate for the cluster number 5 is: 0.0
+The mismatch rate for the cluster number 6 is: 0.15488215488215487
+The mismatch rate for the cluster number 7 is: 0.018691588785046728
+The mismatch rate for the cluster number 8 is: 0.3333333333333333
+The mismatch rate for the cluster number 9 is: 0.04398826979472141
+The mismatch rate for the cluster number 10 is: 0.0
+When using K=20:
+The mismatch rate for the cluster number 1 is: 0.0
+The mismatch rate for the cluster number 2 is: 0.0
+The mismatch rate for the cluster number 3 is: 0.0
+The mismatch rate for the cluster number 4 is: 0.05982905982905983
+The mismatch rate for the cluster number 5 is: 0.0
+The mismatch rate for the cluster number 6 is: 0.09550561797752809
+The mismatch rate for the cluster number 7 is: 0.038461538461538464
+The mismatch rate for the cluster number 8 is: 0.25
+The mismatch rate for the cluster number 9 is: 0.0
+The mismatch rate for the cluster number 10 is: 0.0
+The mismatch rate for the cluster number 11 is: 0.0
+The mismatch rate for the cluster number 12 is: 0.06896551724137931
+The mismatch rate for the cluster number 13 is: 0.25
+The mismatch rate for the cluster number 14 is: 0.2
+The mismatch rate for the cluster number 15 is: 0.04262295081967213
+The mismatch rate for the cluster number 16 is: 0.125
+The mismatch rate for the cluster number 17 is: 0.45454545454545453
+The mismatch rate for the cluster number 18 is: 0.0
+The mismatch rate for the cluster number 19 is: 0.0
+The mismatch rate for the cluster number 20 is: 0.0
